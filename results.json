@@ -1,0 +1,1046 @@
+[
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [
+                {
+                    "name": "Kalkulus II",
+                    "class": "A"
+                }
+            ],
+            "10": [
+                {
+                    "name": "Kalkulus II",
+                    "class": "A"
+                }
+            ],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [
+                {
+                    "name": "Struktur Data",
+                    "class": "A"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Struktur Data",
+                    "class": "A"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Struktur Data",
+                    "class": "A"
+                }
+            ],
+            "4": [
+                {
+                    "name": "Struktur Data",
+                    "class": "A"
+                }
+            ],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "10": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "7": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "A"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Kalkulus II",
+                    "class": "B"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Kalkulus II",
+                    "class": "B"
+                }
+            ],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [
+                {
+                    "name": "Struktur Data",
+                    "class": "A"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Struktur Data",
+                    "class": "A"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Struktur Data",
+                    "class": "A"
+                }
+            ],
+            "4": [
+                {
+                    "name": "Struktur Data",
+                    "class": "A"
+                }
+            ],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "10": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "7": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "A"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Kalkulus II",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Kalkulus II",
+                    "class": "C"
+                }
+            ],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [
+                {
+                    "name": "Struktur Data",
+                    "class": "A"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Struktur Data",
+                    "class": "A"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Struktur Data",
+                    "class": "A"
+                }
+            ],
+            "4": [
+                {
+                    "name": "Struktur Data",
+                    "class": "A"
+                }
+            ],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "10": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "7": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "A"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Kalkulus II",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Kalkulus II",
+                    "class": "C"
+                }
+            ],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Struktur Data",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Struktur Data",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Struktur Data",
+                    "class": "C"
+                }
+            ],
+            "10": [
+                {
+                    "name": "Struktur Data",
+                    "class": "C"
+                }
+            ],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "10": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "7": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "A"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Kalkulus II",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Kalkulus II",
+                    "class": "C"
+                }
+            ],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Struktur Data",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Struktur Data",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Struktur Data",
+                    "class": "C"
+                }
+            ],
+            "10": [
+                {
+                    "name": "Struktur Data",
+                    "class": "C"
+                }
+            ],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "10": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "A"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Kalkulus II",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Kalkulus II",
+                    "class": "C"
+                }
+            ],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Struktur Data",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Struktur Data",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Struktur Data",
+                    "class": "C"
+                }
+            ],
+            "10": [
+                {
+                    "name": "Struktur Data",
+                    "class": "C"
+                }
+            ],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Aljabar Linear",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Sistem Informasi",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "10": [
+                {
+                    "name": "Basis Data I",
+                    "class": "A"
+                }
+            ],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "7": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "B"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "B"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Organisasi dan Arsitektur Komputer",
+                    "class": "B"
+                }
+            ]
+        }
+    }
+]

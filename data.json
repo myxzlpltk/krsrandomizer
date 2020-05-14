@@ -1,0 +1,151 @@
+[
+    {
+        "name": "Kalkulus II",
+        "options": [
+            {
+                "class": "A",
+                "day": 3,
+                "hours": [
+                    9,
+                    10
+                ]
+            },
+            {
+                "class": "B",
+                "day": 3,
+                "hours": [
+                    7,
+                    8
+                ]
+            },
+            {
+                "class": "C",
+                "day": 3,
+                "hours": [
+                    1,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Aljabar Linear",
+        "options": [
+            {
+                "class": "A",
+                "day": 4,
+                "hours": [
+                    7,
+                    8,
+                    9
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Struktur Data",
+        "options": [
+            {
+                "class": "A",
+                "day": 5,
+                "hours": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            {
+                "class": "B",
+                "day": 5,
+                "hours": [
+                    5,
+                    6,
+                    7,
+                    8
+                ]
+            },
+            {
+                "class": "C",
+                "day": 3,
+                "hours": [
+                    7,
+                    8,
+                    9,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Basis Data I",
+        "options": [
+            {
+                "class": "A",
+                "day": 5,
+                "hours": [
+                    7,
+                    8,
+                    9,
+                    10
+                ]
+            },
+            {
+                "class": "B",
+                "day": 4,
+                "hours": [
+                    7,
+                    8,
+                    9,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Organisasi dan Arsitektur Komputer",
+        "options": [
+            {
+                "class": "A",
+                "day": 6,
+                "hours": [
+                    1,
+                    2,
+                    3
+                ]
+            },
+            {
+                "class": "B",
+                "day": 6,
+                "hours": [
+                    7,
+                    8,
+                    9
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sistem Informasi",
+        "options": [
+            {
+                "class": "A",
+                "day": 6,
+                "hours": [
+                    7,
+                    8,
+                    9
+                ]
+            },
+            {
+                "class": "B",
+                "day": 5,
+                "hours": [
+                    1,
+                    2,
+                    3
+                ]
+            }
+        ]
+    }
+]
