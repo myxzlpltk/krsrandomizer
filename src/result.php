@@ -1,17 +1,13 @@
 <?php
 
-if(!class_exists('PHPExcel')){
-	require("./PHPExcel/Classes/PHPExcel.php");
-}
-
 class Result{
 
 	public $results;
 	public $excel;
 
 	public function __construct(){
-		$this->results = json_decode(file_get_contents('results.json'));
-		$this->excel = new PHPExcel();
+		$this->results = json_decode(file_get_contents('output/results.json'));
+		$this->excel = new \PhpOffice\PhpSpreadsheet\Spreadsheet();
 		$this->excel->getProperties()->setCreator("Saddam Azy")
 			->setLastModifiedBy("Saddam Azy")
 			->setTitle("Kombinasi KRS")
@@ -32,8 +28,8 @@ class Result{
 				$sheet->getStyle(strval("A{$i}"))->getAlignment()->setWrapText(true);
 				$sheet->getStyle(strval("A{$i}"))->applyFromArray([
 					'alignment' => [
-						'horizontal' => PHPExcel_Style_Alignment::HORIZONTAL_CENTER,
-						'vertical' => PHPExcel_Style_Alignment::VERTICAL_CENTER
+						'horizontal' => \PhpOffice\PhpSpreadsheet\Style\Alignment::HORIZONTAL_CENTER,
+						'vertical' => \PhpOffice\PhpSpreadsheet\Style\Alignment::VERTICAL_CENTER
 					]
 				]);
 			}
@@ -50,8 +46,8 @@ class Result{
 				$sheet->getStyle(strval(chr(65+$i)."1"))->getAlignment()->setWrapText(true);
 				$sheet->getStyle(strval(chr(65+$i)."1"))->applyFromArray([
 					'alignment' => [
-						'horizontal' => PHPExcel_Style_Alignment::HORIZONTAL_CENTER,
-						'vertical' => PHPExcel_Style_Alignment::VERTICAL_CENTER
+						'horizontal' => \PhpOffice\PhpSpreadsheet\Style\Alignment::HORIZONTAL_CENTER,
+						'vertical' => \PhpOffice\PhpSpreadsheet\Style\Alignment::VERTICAL_CENTER
 					]
 				]);
 			}
@@ -70,8 +66,8 @@ class Result{
 							$sheet->getStyle(chr(65+$merge).($i).":".chr(65+$j).($i))->getAlignment()->setWrapText(true);
 							$sheet->getStyle(chr(65+$merge).($i).":".chr(65+$j).($i))->applyFromArray([
 								'alignment' => [
-									'horizontal' => PHPExcel_Style_Alignment::HORIZONTAL_CENTER,
-									'vertical' => PHPExcel_Style_Alignment::VERTICAL_CENTER
+									'horizontal' => \PhpOffice\PhpSpreadsheet\Style\Alignment::HORIZONTAL_CENTER,
+									'vertical' => \PhpOffice\PhpSpreadsheet\Style\Alignment::VERTICAL_CENTER
 								]
 							]);
 						}
@@ -91,8 +87,8 @@ class Result{
 		$this->excel->setActiveSheetIndex(0);
 
 		echo date('Y-m-d H:i:s')." : Saving to results.xlsx".PHP_EOL;
-		$objWriter = PHPExcel_IOFactory::createWriter($this->excel, 'Excel2007');
-		$objWriter->save('results.xlsx');
+		$objWriter = \PhpOffice\PhpSpreadsheet\IOFactory::createWriter($this->excel, 'Xlsx');
+		$objWriter->save('output/results.xlsx');
 		echo date('Y-m-d H:i:s')." : Saved to results.xlsx".PHP_EOL;
 	}
 

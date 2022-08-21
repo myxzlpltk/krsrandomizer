@@ -1,0 +1,3022 @@
+[
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "A"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Machine Learning",
+                    "class": "A"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Proyek Game",
+                    "class": "B"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                },
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "B"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    },
+    {
+        "1": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Machine Learning",
+                    "class": "B"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Keamanan Jaringan Komputer",
+                    "class": "B"
+                },
+                {
+                    "name": "Kriptografi",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Jaringan Multimedia",
+                    "class": "C"
+                }
+            ],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Proyek Game",
+                    "class": "C"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "4": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Multimedia Database",
+                    "class": "A"
+                }
+            ],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "5": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": [],
+            "9": [],
+            "10": [],
+            "11": [],
+            "12": []
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Data Mining",
+                    "class": "B"
+                },
+                {
+                    "name": "Game Programming",
+                    "class": "C"
+                }
+            ]
+        }
+    }
+]

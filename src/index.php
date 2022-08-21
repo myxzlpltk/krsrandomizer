@@ -1,14 +1,16 @@
 <?php
 
-class App{
+require('vendor/autoload.php');
 
+class App{
 	public $data;
 	public $results = [];
 	public $filtered = [];
 	public $total = 3;
+	public $enableFilter = true;
 
 	public function __construct(){
-		$this->data = json_decode(file_get_contents('data.json'));
+		$this->data = json_decode(file_get_contents('input/data.json'));
 	}
 
 	public function main(){
@@ -37,6 +39,10 @@ class App{
 	}
 
 	public function filter(){
+		if(!$this->enableFilter){
+			$this->filtered = $this->results;
+		}
+
 		$total = count($this->results);
 
 		for($i=0;$i<$total;$i++){
@@ -57,7 +63,7 @@ class App{
 		}
 	}
 
-	public function save($filename='results.json'){
+	public function save($filename='output/results.json'){
 		file_put_contents($filename, json_encode($this->filtered, JSON_PRETTY_PRINT));
 	}
 

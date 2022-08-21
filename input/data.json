@@ -1,0 +1,150 @@
+[
+    {
+        "name": "Keamanan Jaringan Komputer",
+        "options": [
+            {
+                "class": "A",
+                "day": 2,
+                "hours": [
+                    1,
+                    2,
+                    3
+                ]
+            },
+            {
+                "class": "B",
+                "day": 2,
+                "hours": [
+                    7,
+                    8,
+                    9
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Machine Learning",
+        "options": [
+            {
+                "class": "A",
+                "day": 2,
+                "hours": [
+                    7,
+                    8,
+                    9
+                ]
+            },
+            {
+                "class": "B",
+                "day": 2,
+                "hours": [
+                    1,
+                    2,
+                    3
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Multimedia Database",
+        "options": [
+            {
+                "class": "A",
+                "day": 4,
+                "hours": [
+                    7,
+                    8,
+                    9
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Proyek Game",
+        "options": {
+            "1": {
+                "class": "B",
+                "day": 3,
+                "hours": [
+                    1,
+                    2,
+                    3
+                ]
+            },
+            "2": {
+                "class": "C",
+                "day": 3,
+                "hours": [
+                    7,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "name": "Jaringan Multimedia",
+        "options": {
+            "1": {
+                "class": "B",
+                "day": 3,
+                "hours": [
+                    7,
+                    8,
+                    9
+                ]
+            },
+            "2": {
+                "class": "C",
+                "day": 3,
+                "hours": [
+                    1,
+                    2,
+                    3
+                ]
+            }
+        }
+    },
+    {
+        "name": "Data Mining",
+        "options": {
+            "1": {
+                "class": "B",
+                "day": 6,
+                "hours": [
+                    1,
+                    2,
+                    3
+                ]
+            }
+        }
+    },
+    {
+        "name": "Kriptografi",
+        "options": {
+            "2": {
+                "class": "C",
+                "day": 2,
+                "hours": [
+                    7,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "name": "Game Programming",
+        "options": {
+            "2": {
+                "class": "C",
+                "day": 6,
+                "hours": [
+                    1,
+                    2,
+                    3
+                ]
+            }
+        }
+    }
+]

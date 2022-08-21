@@ -1,9 +1,6 @@
 <?php
 
 echo date('Y-m-d H:i:s')." : Welcome...........".PHP_EOL;
-echo date('Y-m-d H:i:s')." : Initiating PHPExcel".PHP_EOL;
-require("./PHPExcel/Classes/PHPExcel/IOFactory.php");
-echo date('Y-m-d H:i:s')." : PHPExcel initiated".PHP_EOL;
 
 class KRS{
 
@@ -16,7 +13,7 @@ class KRS{
 	public function __construct($filename){
 		$this->filename = $filename;
 		echo date('Y-m-d H:i:s')." : Reading data source".PHP_EOL;
-		$this->excel = PHPExcel_IOFactory::load($this->filename);
+		$this->excel = \PhpOffice\PhpSpreadsheet\IOFactory::load($this->filename);
 	}
 
 	public function main(){
@@ -30,7 +27,7 @@ class KRS{
 						$name = $cell->getValue();
 
 						if(!empty($name) && is_string($name)){
-							$ranges = PHPExcel_Cell::splitRange($cell->getMergeRange());
+							$ranges = \PhpOffice\PhpSpreadsheet\Cell\Coordinate::splitRange($cell->getMergeRange());
 							foreach($ranges as $range){
 								$from = $this->__convertId($range[0]);
 								$to = $this->__convertId($range[1]);
@@ -47,7 +44,7 @@ class KRS{
 		}
 
 		echo date('Y-m-d H:i:s')." : Saving to data.json".PHP_EOL;
-		file_put_contents('data.json', json_encode($this->data, JSON_PRETTY_PRINT));
+		file_put_contents('input/data.json', json_encode($this->data, JSON_PRETTY_PRINT));
 		echo date('Y-m-d H:i:s')." : Saved to data.json".PHP_EOL;
 	}
 
@@ -113,5 +110,5 @@ class KRS{
 	}
 }
 
-$krs = new KRS('data.xlsx');
+$krs = new KRS('input/data.xlsx');
 $krs->main();
